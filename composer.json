@@ -1,0 +1,12 @@
+{
+    "name": "nordsoftware/yii-mandrill",
+    "description": "Mandrill extension for Yii",
+    "type": "yii-extension",
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "Christoffer Lindqvist",
+            "email": "christoffer.lindqvist@nordsoftware.com"
+        }
+    ]
+}
